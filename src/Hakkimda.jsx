@@ -4,7 +4,7 @@ function Hakkimda() {
             <h1>Hakkımda</h1>
             <p>Web tasarımı ve React öğreniyorum</p>
             <p>Web tasarımına ara verip KPSS çalışağım</p>
-            <p>KPSS bitince kaldığım yerden devam edeceğim</p>
+            <p>KPSS bitince devam edeceğim</p>
         </div>
     );
 }
