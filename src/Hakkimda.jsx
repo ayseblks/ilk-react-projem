@@ -1,6 +1,6 @@
 function Hakkimda() {
     return (
-        <div>
+        <div className="hakkimda-kutu">
             <h1>Hakkımda</h1>
             <p>Web tasarımı ve React öğreniyorum</p>
             <p>Web tasarımına ara verip KPSS çalışmaya geçiyorum</p>

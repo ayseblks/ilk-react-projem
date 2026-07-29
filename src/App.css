@@ -38,3 +38,17 @@
     transform: rotate(360deg);
   }
 }
+.hakkimda-kutu {
+  background-color: rgba(255, 255, 255, 0.85);
+  padding: 30px;
+  border-radius: 20px;
+  max-width: 700px;
+  margin: 40px auto;
+  box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+}
+.hakkimda-kutu p {
+  font-size: 18px;
+  line-height: 1.8;
+  margin: 12px 0;
+  word-break: keep-all;
+}
