@@ -1,0 +1,11 @@
+function Hakkimda() {
+    return (
+        <div>
+            <h1>Hakkımda</h1>
+            <p>Web tasarımı ve React öğreniyorum</p>
+            <p>Web tasarımına ara verip KPSS çalışmaya geçiyorum</p>
+            <p>KPSS bitince kaldığım yerden devam edeceğim</p>
+        </div>
+    );
+}
+export default Hakkimda;
